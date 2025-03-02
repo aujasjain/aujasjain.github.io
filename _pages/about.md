@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Hey there! Welcome to my website.
+title: Aujas Jain
 author_profile: true
 redirect_from: 
   - /about/
