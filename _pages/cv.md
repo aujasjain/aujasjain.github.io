@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 **EDUCATION**
-International Baccalaureate - Elpro International School (2023-2025)
-ICSE - Wisdom World School (2013 - 2023)
+* International Baccalaureate - Elpro International School (2023-2025)
+* ICSE - Wisdom World School (2013 - 2023)
 
 **PERSONAL PROJECTS**
 * RFID-based student attendance system
