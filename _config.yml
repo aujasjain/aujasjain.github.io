@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Aujas Jain"
+title                    : '''Aujas Jain
+                                          '''
 title_separator          : "-"
 name                     : &name "Aujas Jain"
 description              : &description "personal description"
